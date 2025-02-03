@@ -1,4 +1,4 @@
-<h1>🧮 Calculator Application</h1>
+<h1>🧮 Calculator App</h1>
 
 <p>
   An interactive calculator featuring light and dark theme support, comprehensive mathematical functionalities, and a responsive design for all devices.

@@ -5,8 +5,7 @@
 </p>
 
 <figure>
-  <img src="./screenshot.jpg" alt="Calculator Preview" style="max-width: 100%; height: auto;">
-  <figcaption>Screenshot: Calculator in action (image to be updated)</figcaption>
+  <a href="./screenshot.png">Calculator design Preview </a>
 </figure>
 
 <hr>
